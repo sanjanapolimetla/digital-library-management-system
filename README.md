@@ -42,3 +42,7 @@ FUTURE IMPROVEMENTS:
  - Add a borrow and return feature
  - Improve the overall user interface
  - Add more library management features
+
+PROJECT SCREENSHOT:
+ ![Digital Library Management System]
+ (digital-library-project-screenshot.jpeg)
