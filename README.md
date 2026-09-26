@@ -1,54 +1,44 @@
- Digital Library Management System
+DIGITAL LIBRARY MANAGEMENT SYSTEM:
+ This is a simple Digital Library Management System that I built as a beginner web development project.
 
-This is a simple Digital Library Management System that I built as a beginner web development project.
+ The main idea of this project is to make it easier to add books, search for books, edit book details, and remove books from   a small digital library.
 
-The main idea of this project is to make it easy to add books, search for books, and remove books from a small digital library.
+FEATURES:
+ - Add a new book with title, author name, and book ID
+ - Search books by title or author
+ - Edit existing book details
+ - Delete books from the library
+ - Prevent duplicate Book IDs
+ - Basic form validation
+ - Book data is stored using Local Storage
+ - Responsive design for smaller screens
 
- Features
+TECHNOLOGIES USED:
+ - HTML
+ - CSS
+ - JavaScript
+ - Local Storage
 
-- Add a new book with title, author name, and book ID
-- Search books by title or author
-- Delete books from the library
-- Basic form validation
-- Book data is saved using Local Storage
-- Simple and clean user interface
+HOW IT WORKS:
+ 1. Enter the book title, author name, and Book ID.
+ 2. Click **Add Book** to add the book to the library.
+ 3. Use the search box to find a book by title or author.
+ 4. Use **Edit** to update book details.
+ 5. Use **Delete** to remove a book.
+ 6. The book data stays saved even after refreshing the page.
 
- Technologies Used
+LIVE DEMO:
+ You can try the project here:
 
-- HTML
-- CSS
-- JavaScript
-- Local Storage
+  https://sanjanapolimetla.github.io/digital-library-management-system/
+ 
+ABOUT THE PROJECT:
+ I created this project to practice the basics of HTML, CSS, and JavaScript and to understand how Local Storage works in a     web application.
+ This is one of my first projects and I plan to improve it by adding more features in the future.
 
- How to Run
-
-1. Open the project repository.
-2. Download the project files.
-3. Open `index.html` in a web browser.
-4. Add books and try the search and delete features.
-
- Live Website
-
-The project is deployed using GitHub Pages.
-
-You can try the live website from the repository's GitHub Pages link.
-
- What I Learned
-
-While building this project, I practiced:
-
-- Creating a webpage using HTML
-- Styling a webpage using CSS
-- Using JavaScript for user interactions
-- Working with arrays and objects
-- Using Local Storage to save data
-- Uploading a project to GitHub
-- Deploying a website using GitHub Pages
-
- Project Status
-
-Completed as a beginner web development project.
-
- Author
-
-Sanjana Polimetla
+FUTURE IMPROVEMENTS:
+ - Add book categories
+ - Add availability status
+ - Add a borrow and return feature
+ - Improve the overall user interface
+ - Add more library management features
