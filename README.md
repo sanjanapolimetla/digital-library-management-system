@@ -1,31 +1,54 @@
-Digital Library Management System
+ Digital Library Management System
 
-A simple web-based Digital Library Management System built using HTML, CSS, and JavaScript.
+This is a simple Digital Library Management System that I built as a beginner web development project.
 
-Features
+The main idea of this project is to make it easy to add books, search for books, and remove books from a small digital library.
 
-- Add new books
-- Delete books
+ Features
+
+- Add a new book with title, author name, and book ID
 - Search books by title or author
-- Form validation
-- Save books using browser Local Storage
-- Simple and responsive user interface
+- Delete books from the library
+- Basic form validation
+- Book data is saved using Local Storage
+- Simple and clean user interface
 
-Technologies Used
+ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 - Local Storage
 
-How to Run
+ How to Run
 
-1. Open the `index.html` file in a web browser.
-2. Enter the book title, author name, and book ID.
-3. Click the "Add Book" button.
-4. Use the search box to find books.
-5. Use the "Delete" button to remove a book.
+1. Open the project repository.
+2. Download the project files.
+3. Open `index.html` in a web browser.
+4. Add books and try the search and delete features.
 
-Project Status
+ Live Website
 
-Completed beginner-level web development project.
+The project is deployed using GitHub Pages.
+
+You can try the live website from the repository's GitHub Pages link.
+
+ What I Learned
+
+While building this project, I practiced:
+
+- Creating a webpage using HTML
+- Styling a webpage using CSS
+- Using JavaScript for user interactions
+- Working with arrays and objects
+- Using Local Storage to save data
+- Uploading a project to GitHub
+- Deploying a website using GitHub Pages
+
+ Project Status
+
+Completed as a beginner web development project.
+
+ Author
+
+Sanjana Polimetla
